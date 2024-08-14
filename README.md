@@ -3,6 +3,8 @@
   <img src="./logounige.jpg" alt="UNIGE Logo" width="200"/>
 </p>
 
+---
+
 ## Authors
 Aicha Manar ABBAD, Ines HAOUALA, Amanzhol RAISOV, Roumaissa BENKREDDA
 
