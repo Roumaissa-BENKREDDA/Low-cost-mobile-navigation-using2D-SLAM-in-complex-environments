@@ -1,4 +1,5 @@
 # Low-cost-mobile-navigation-using2D-SLAM-in-complex-environments
+![UNIGE Logo](./logounige.png)
 
 ## Authors
 Aicha Manar ABBAD, Ines HAOUALA, Amanzhol RAISOV, Roumaissa BENKREDDA
